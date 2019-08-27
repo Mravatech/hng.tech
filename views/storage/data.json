@@ -73,8 +73,8 @@
     "stack": "PHP/Laravel",
     "role":"Back End Developer",
     "picture":"https://res.cloudinary.com/avatechng/image/upload/e_grayscale/c_thumb,w_200,g_face/v1557836685/IMG_20180913_111706_3.jpg",
-    "company":"",
-    "company_url":""
+   "company":"EasyTicket",
+    "company_url":"https://e-ticket.app/"
 },{
 	"name": "Mercy Ikpe",
     "stack": "HMTL/CSS/JS",
